@@ -9,10 +9,17 @@
     "lint": "eslint ./ --fix"
   },
   "dependencies": {
-    "next": "latest",
+    "browserslist": "^4.16.5",
+    "elliptic": "^6.5.4",
+    "glob-parent": "^5.1.2",
+    "hosted-git-info": "^2.8.9",
+    "lodash": "^4.17.21",
+    "next": "^11.0.1",
+    "postcss": "^8.2.10",
     "react": "^16.8.0",
     "react-dom": "^16.8.0",
     "react-is": "^16.8.0",
+    "ssri": "^6.0.2",
     "styled-components": "^5.0.0"
   },
   "devDependencies": {
